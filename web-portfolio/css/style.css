@@ -1,0 +1,91 @@
+body
+{
+  width:100%;
+  height:100%;
+}
+
+html
+{
+  width:100%;
+  height:100%;
+}
+
+#home {
+	height: 800px;
+  padding-top: 50px;
+	padding-bottom: 50px;
+	color: black;
+  background-image: url("http://technical.ly/philly/wp-content/uploads/sites/2/2015/06/lamps-0123-web.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+  background-size: cover;
+  
+}
+#home h1, h2{
+  text-shadow: 4px 4px 2px orange;
+}
+#about {
+	height: 855px;
+  padding-top: 50px;
+	padding-bottom: 50px;
+  background: url('http://img.inspiringwallpapers.net/wp-content/uploads/2014/06/zig-zag-forest-road-nature-wallpaper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+}
+.bio{
+  color:#ffc966;
+  font-weight:bold;
+  font-size:110%;
+  margin-left:80px;
+  text-shadow: 4px 4px 2px black;
+  
+  
+}
+.who{
+  color:orange;
+  font-weight:bold;
+  font-size:300%;
+  margin-left:80px;
+  text-shadow: 4px 4px 2px black;
+  
+}
+#portfolio {
+	height: 855px;
+  padding-top: 50px;
+	padding-bottom: 50px;
+  background: url('http://www.turbonigeria.com/wp-content/uploads/2015/02/portfolioBG.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+	overflow: auto;
+}
+#portfolio h1{
+  color:white;
+  font-weight:bold;
+  margin-left:120px;
+  text-shadow: 4px 4px 2px black;
+  
+  }
+#portfolio h2{
+  color:white;
+  margin-left:120px;
+  text-shadow: 4px 4px 2px black;
+  }
+#contact {
+	height: 855px;
+  padding-top: 50px;
+	padding-bottom: 50px;
+  background: url('http://www.niazbo.com/wp-content/uploads/2015/03/Apple-lover-17.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+  
+}
+.email{
+	font-family: 'Arial';
+	text-shadow: 4px 4px 2px black;
+}
+
+
