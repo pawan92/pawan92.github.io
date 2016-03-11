@@ -20,7 +20,7 @@ html
 	background-attachment: fixed;
 	text-align: center;
   background-size: cover;
-  
+
 }
 #home h1, h2{
   text-shadow: 4px 4px 2px orange;
@@ -40,8 +40,8 @@ html
   font-size:110%;
   margin-left:80px;
   text-shadow: 4px 4px 2px black;
-  
-  
+
+
 }
 .who{
   color:orange;
@@ -49,7 +49,7 @@ html
   font-size:300%;
   margin-left:80px;
   text-shadow: 4px 4px 2px black;
-  
+
 }
 #portfolio {
 	height: 855px;
@@ -66,7 +66,7 @@ html
   font-weight:bold;
   margin-left:120px;
   text-shadow: 4px 4px 2px black;
-  
+
   }
 #portfolio h2{
   color:white;
@@ -77,15 +77,13 @@ html
 	height: 855px;
   padding-top: 50px;
 	padding-bottom: 50px;
-  background: url('http://www.niazbo.com/wp-content/uploads/2015/03/Apple-lover-17.jpg');
+  background: url('https://pixabay.com/static/uploads/photo/2016/02/24/15/08/desk-1220056_960_720.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
   background-size: cover;
-  
+
 }
 .email{
 	font-family: 'Arial';
 	text-shadow: 4px 4px 2px black;
 }
-
-
